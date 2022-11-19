@@ -1,0 +1,1698 @@
+,Ingredient,Count,Traditional
+0,olive oil,889,1
+1,oregano,103,0
+2,dry basil,1,0
+3,garlic,1008,1
+4,salt,711,1
+5,pepper,135,0
+6,chicken,680,1
+7,shrimp,571,0
+8,chorizo,178,0
+9,yellow onions,82,0
+10,green pepper,104,0
+11,short grain white rice,310,1
+12,chicken broth,496,0
+13,tomatoes,706,1
+14,powdered saffron,18,0
+15,scallops,38,0
+16,clams,83,0
+17,mussels,299,0
+18,pimientos,51,0
+19,onion,750,0
+20,asparagus,5,0
+21,fresh peas,22,0
+22,saffron,302,1
+23,mushrooms,53,0
+24,artichokes,31,0
+25,boiling water,24,0
+26,medium grain rice,4,0
+27,long grain rice,73,0
+28,cumin seeds,6,0
+29,couscous,22,0
+30,red bell pepper,277,0
+31,baby shrimp,2,0
+32,lime wedges,2,0
+33,lemon,201,0
+34,long-grain rice,39,0
+35,green bell pepper,132,0
+36,black pepper,71,0
+37,smoked sausage,2,0
+38,turmeric,94,0
+39,converted rice,1,0
+40,bell peppers,51,0
+41,broth,14,0
+42,tasso,3,0
+43,frozen green pea,46,0
+44,peas,120,0
+45,saffron thread,273,0
+46,rice pilaf mix,1,0
+47,lobster,77,0
+48,butter,85,0
+49,fresh garlic,6,0
+50,cooked rice,2,0
+51,basil,17,0
+52,italian sausage,38,0
+53,crushed red pepper flakes,3,0
+54,minute rice,2,0
+55,medium shrimp,1,0
+56,canola oil,15,0
+57,red onion,46,0
+58,frozen carrots,2,0
+59,ground turmeric,58,0
+60,cayenne pepper,64,0
+61,dried parsley,1,0
+62,garlic powder,8,0
+63,dried oregano,1,0
+64,green peas,64,0
+65,water,215,1
+66,ketchup,3,0
+67,sweet onion,15,0
+68,vegetable broth,44,0
+69,minute white rice,1,0
+70,fresh shrimp,6,0
+71,yellow rice mix,1,0
+72,tarragon vinegar,2,0
+73,curry powder,11,0
+74,white pepper,11,0
+75,celery,44,0
+76,diced pimentos,1,0
+77,lettuce leaf,1,0
+78,small shrimp,1,0
+79,bay scallop,11,0
+80,cornstarch,9,0
+81,tabasco sauce,5,0
+82,littleneck clams,60,0
+83,parsley,246,0
+84,kosher salt,113,0
+85,dry white wine,5,0
+86,lemon juice,82,0
+87,leek,10,0
+88,bay leaf,153,0
+89,sweet paprika,51,0
+90,short-grain rice,45,0
+91,manila clams,12,0
+92,white wine,235,0
+93,ham steak,3,0
+94,italian tomatoes,3,0
+95,thyme,114,0
+96,paprika,314,1
+97,nutmeg,6,0
+98,fresh parsley,60,0
+99,frozen shrimp,9,0
+100,oregano flakes,3,0
+101,dried thyme,1,0
+102,bouillon,1,0
+103,mustard seeds,1,0
+104,star anise,1,0
+105,clove,2,0
+106,brown sugar,8,0
+107,fresh coriander leaves,1,0
+108,white wine vinegar,5,0
+109,green chili,1,0
+110,cinnamon,8,0
+111,fresh ginger,2,0
+112,mint,2,0
+113,ground lamb,1,0
+114,ras el hanout spice mix,1,0
+115,ground cloves,6,0
+116,orange bell peppers,6,0
+117,honey,6,0
+118,raisins,3,0
+119,cooked white rice,1,0
+120,pitted black olives,1,0
+121,anchovy fillets,2,0
+122,capers,26,0
+123,dijon mustard,1,0
+124,tomato puree,13,0
+125,fresh thyme,5,0
+126,flat leaf parsley,33,0
+127,poblano chiles,5,0
+128,brown rice,29,0
+129,carrots,78,0
+130,zucchini,40,0
+131,red capsicum,2,0
+132,tomato paste,49,0
+133,fresh ground black pepper,16,0
+134,broccoli,9,0
+135,cauliflower,11,0
+136,spanish onion,32,0
+137,flour,20,0
+138,cod fish fillet,1,0
+139,squid,11,0
+140,sea salt,1,0
+141,artichoke hearts,4,1
+142,dried rosemary,1,0
+143,clams in shell,1,0
+144,basmati rice,15,0
+145,green beans,62,0
+146,fresh ground pepper,9,0
+147,large shrimp,2,0
+148,scallions,42,0
+149,saffron strands,14,0
+150,baby clams,4,0
+151,lima beans,5,0
+152,green onion,41,0
+153,cumin,13,0
+154,parmesan cheese,17,0
+155,shallots,40,0
+156,pine nuts,6,0
+157,smoked link sausage,1,0
+158,black olives,22,0
+159,green olives,40,0
+160,beer,2,0
+161,rosemary,25,1
+162,ground cumin,29,0
+163,calrose rice,1,0
+164,lemon wedges,74,0
+165,yellow rice,11,0
+166,rabbit,19,1
+167,pork,25,0
+168,pork chops,9,0
+169,medium scallops,1,0
+170,frozen peas,268,0
+171,packets,4,0
+172,pimentos,35,0
+173,chicken breast cubes,1,0
+174,long-grain white rice,24,0
+175,ground red pepper,13,0
+176,ground saffron,18,0
+177,red pepper,233,0
+178,red chili pepper,6,0
+179,italian plum,3,0
+180,freshly ground pepper,18,0
+181,crab,7,0
+182,bulk sausage,1,0
+183,pork shoulder,3,0
+184,spanish sausages,3,0
+185,sazan,1,0
+186,threads of saffron,3,0
+187,shell,14,0
+188,sweet italian sausage,6,0
+189,olive,29,0
+190,chicken drumsticks,4,0
+191,regular rice,8,0
+192,safflower oil,2,0
+193,boneless pork butt,1,0
+194,ham,34,0
+195,arborio-style rice,1,0
+196,oil,40,0
+197,lemon slices,5,0
+198,crab claws,4,0
+199,skinless,14,0
+200,red sweet pepper,4,0
+201,hearts,48,0
+202,sausages,143,0
+203,rice pilaf,2,0
+204,avocado,7,0
+205,light vegetable oil cooking spray,1,0
+206,arborio rice,101,0
+207,banana pepper,3,0
+208,yellow bell pepper,20,0
+209,squid rings,7,0
+210,sweet yellow onion,3,0
+211,in shells,4,0
+212,fresh fish,2,0
+213,vegetable bouillon,2,0
+214,tomato juice,2,0
+215,chickpeas,16,0
+216,cooking oil,7,0
+217,live lobster,8,0
+218,freshly ground black pepper,49,0
+219,eggplant,6,0
+220,shortening,1,0
+221,frozen artichoke,6,0
+222,garbanzo beans,11,0
+223,saffron and/or,2,0
+224,garlic salt,5,0
+225,tomato sauce,26,0
+226,short grain rice,17,0
+227,sausage links,2,0
+228,cayenne,12,0
+229,vinegar,3,0
+230,coriander,8,0
+231,black cracked pepper,1,0
+232,picante sauce,1,0
+233,spanish chorizo sausage,3,0
+234,cured ham,2,0
+235,red pimientos,2,0
+236,crab meat,7,0
+237,oysters,9,0
+238,corn oil,3,0
+239,gallon of red burgundy wine,1,0
+240,orange juice,4,0
+241,brandy,4,0
+242,lemon soda,1,0
+243,apples,2,0
+244,oranges,4,0
+245,regular long grain rice,1,0
+246,red pimento,3,0
+247,pork ribs,3,0
+248,wine,2,0
+249,' seasoning,1,0
+250,uncle ben,4,0
+251,pepperoni,10,0
+252,pearl onions,4,0
+253,chicken chunks,1,0
+254,muscles,5,0
+255,desire,1,0
+256,neck clams,4,0
+257,spanish olive oil,8,0
+258,warm cooked rice,1,0
+259,pineapple,10,0
+260,syrup from pineapple,1,0
+261,frozen cooked shrimp,4,0
+262,mayonnaise,13,0
+263,vegetable oil,51,0
+264,salad,2,0
+265,caroline,1,0
+266,crisp salad greens,1,0
+267,crab legs,2,0
+268,spanish saffron,2,0
+269,ham strips,1,0
+270,salad oil,3,0
+271,chicken pieces,3,0
+272,saffron rice,13,0
+273,pimento strips,2,0
+274,chorizo sausages,17,0
+275,valencia rice,11,0
+276,bijol,2,0
+277,crust pie pastry,1,0
+278,eggs,36,0
+279,ricotta cheese,1,0
+280,marjoram,4,0
+281,mozzarella cheese,1,0
+282,all-purpose,5,0
+283,ground oregano,2,0
+284,spanish style green olives,1,0
+285,cherry tomatoes,8,0
+286,dressing,1,0
+287,green shrimp,1,0
+288,packets sazon,3,0
+289,chicken flavor,2,0
+290,red kidney beans,1,0
+291,hot sauce,7,0
+292,pork loin,8,0
+293,spanish mackerel,1,0
+294,sweet green,1,0
+295,paella rice,40,0
+296,prawns,58,0
+297,fresh scallops,1,0
+298,sweet sausage,3,0
+299,orzo,7,0
+300,hot pepper sauce,4,0
+301,cayenne red pepper,2,0
+302,mandarins,1,0
+303,burgundy,1,0
+304,sugar,15,0
+305,firm fleshed whitefish,1,0
+306,cornmeal,2,0
+307,coarse salt,2,0
+308,pork sausage,6,0
+309,paella,19,0
+310,long grain converted rice,1,0
+311,red sweet bell peppers,2,0
+312,vegetables,16,0
+313,shellfish,1,0
+314,red cayenne pepper,1,0
+315,italian sausage links,2,0
+316,ready-,1,0
+317,cooking rice,1,0
+318,red,20,0
+319,green,8,0
+320,frozen broccoli,2,0
+321,parmesan,4,0
+322,uncle ben's rice,1,0
+323,campbell's chicken broth,1,0
+324,whole clams,2,0
+325,chicken bouillon,4,0
+326,sweet red,2,0
+327,fish,32,0
+328,ground pepper,5,0
+329,shell clams,1,0
+330,italian pork sausage,1,0
+331,chicken bouillon cubes,2,0
+332,ready,1,0
+333,pork meat,1,0
+334,clear chicken broth,1,0
+335,polska kielbasa sausage,1,0
+336,rice +,1,0
+337,sweet peas,9,0
+338,dry wine,2,0
+339,stalks asparagus,2,0
+340,bacon,23,0
+341,regular strength chicken broth,1,0
+342,instant rice,4,0
+343,with juice,1,0
+344,wet pack,1,0
+345,cooked giblets,1,0
+346,italian,4,0
+347,stalks celery,9,0
+348,lemon pepper,1,0
+349,string beans,6,0
+350,frozen lesueur peas,1,0
+351,spanish paprika,15,0
+352,spanish,11,0
+353,thighs,3,0
+354,italian stewed tomatoes,1,0
+355,clam juice,34,0
+356,pitted ripe olives,1,0
+357,tomato wedges,1,0
+358,sherry,19,0
+359,cocktail sausages,1,0
+360,mixed vegetables,7,0
+361,tarragon,10,0
+362,hearts mushrooms,1,0
+363,big clams,1,0
+364,turkey,8,0
+365,campbell's condensed,1,0
+366,cook chicken,1,0
+367,fresh clams,11,0
+368,broiler-fryer chicken pieces,1,0
+369,instant chicken,1,0
+370,clean raw,1,0
+371,tomato broth,2,0
+372,long grain brown rice,6,0
+373,kidney beans,3,0
+374,fryer chicken,2,0
+375,haddock,2,0
+376,head,3,0
+377,fresh oregano,8,0
+378,red snapper,8,0
+379,threads,45,0
+380,calamari rings,2,0
+381,jumbo shrimp,28,0
+382,chicken tenders,8,0
+383,stalk celery,1,0
+384,jalapeno peppers,4,0
+385,cilantro,31,0
+386,rice mix,1,0
+387,crawfish,4,0
+388,cauliflower rice,1,0
+389,ground black pepper,23,0
+390,chicken sausage,9,0
+391,ground cayenne pepper,2,0
+392,snow peas,7,0
+393,pork spareribs,2,0
+394,onion strips,1,0
+395,white quinoa,1,0
+396,parsley flakes,1,0
+397,spanish paella rice,2,0
+398,spanish sweet paprika,3,0
+399,roma,1,0
+400,fresh italian parsley,8,0
+401,baguette,2,0
+402,boiling chicken broth,1,0
+403,short-grain,5,0
+404,butter beans,4,1
+405,spanish chorizo,49,0
+406,spanish smoked paprika,6,0
+407,short-grain brown rice,4,0
+408,apple cider vinegar,1,0
+409,bella mushrooms,1,0
+410,steamer clams,2,0
+411,salmon fillet,2,0
+412,frozen petite peas,2,0
+413,spanish rice,10,0
+414,pan,2,0
+415,chili powder,6,0
+416,paella pan,9,0
+417,serrano peppers,2,0
+418,fresh cilantro,23,0
+419,fresh romano,1,0
+420,seafood stock,8,0
+421,baby squid,7,0
+422,blend,1,0
+423,steamfresh\u00ae,1,0
+424,swanson,2,0
+425,salsa,5,0
+426,turkey kielbasa,5,0
+427,saffron broth,1,0
+428,hot paprika,5,0
+429,marcona almonds,2,0
+430,pancetta,6,0
+431,green cabbage,2,0
+432,bean sprouts,1,0
+433,white onions,21,0
+434,soy sauce,5,0
+435,teriyaki sauce,1,0
+436,ginger powder,1,0
+437,virgin olive oil,2,0
+438,egg roll wraps,1,0
+439,jasmine rice,5,0
+440,ginger,12,0
+441,water chestnut,3,0
+442,mango,9,0
+443,papaya,4,0
+444,oats,1,0
+445,nuts,8,0
+446,chicken breast halves,3,0
+447,unsalted butter,11,0
+448,frozen chopped onions,1,0
+449,shiitake mushrooms,4,0
+450,valencian short-grain rice,1,0
+451,achiote paste,1,0
+452,yellow tomatoes,1,0
+453,cilantro leaf,1,0
+454,chick-peas,1,0
+455,grain rice,22,0
+456,vegetable stock,30,0
+457,ingredients,3,0
+458,could,2,0
+459,fish stock,18,0
+460,sweet peppers,4,0
+461,fennel seed,4,0
+462,calasparra rice,6,0
+463,monk fish fillet,1,0
+464,orzo pasta,8,0
+465,stock,6,0
+466,rough chopped zucchini,1,0
+467,rough chopped,2,0
+468,handful,9,0
+469,beans,24,0
+470,chiles,3,0
+471,silver tequila,1,0
+472,vegetable soup,1,0
+473,previously cooked frozen shrimp,1,0
+474,good-quality,1,0
+475,ground coriander,11,0
+476,italian rice,1,0
+477,fresh green peas,6,0
+478,coriander powder,1,0
+479,cooking sherry,2,0
+480,clam broth,2,0
+481,pimento stuffed olive,4,0
+482,live clams,1,0
+483,cockles,6,0
+484,piquillo peppers,10,0
+485,yellow pepper,11,0
+486,fresh cracked pepper,1,0
+487,loin lamb,1,0
+488,fresh mussels,8,0
+489,italian parsley,15,0
+490,spanish olives,5,0
+491,cajun seasoning,6,0
+492,heavy cream,2,0
+493,fresh chives,4,0
+494,shrimp shells,1,0
+495,gallon water,3,0
+496,peppercorns,5,0
+497,andouille sausages,9,0
+498,sugar snap pea,5,0
+499,manila,9,0
+500,chicken quarters,1,0
+501,fresh green beans,4,0
+502,ham hocks,5,0
+503,peeled shrimp,2,0
+504,linguica sausage,4,0
+505,razor clam,1,0
+506,baby green peas,1,0
+507,sofrito sauce,1,0
+508,gilthead,1,0
+509,tomato-based pasta sauce,1,0
+510,shrimp stock,1,0
+511,crabmeat,1,0
+512,quinoa,12,0
+513,frozen lima beans,2,0
+514,cannellini beans,2,0
+515,fresh tarragon,1,0
+516,white clams,1,0
+517,cooking spray,5,0
+518,fully cooked chorizo sausage,1,0
+519,frozen baby peas,5,0
+520,rotisserie,1,0
+521,chourico,1,0
+522,rose wine,2,0
+523,long grain white rice,11,0
+524,coconut milk,4,0
+525,catfish,1,0
+526,sweet red pepper,23,0
+527,sweet green pepper,2,0
+528,corn kernels,5,0
+529,seeded jalapeno,1,0
+530,calamari,27,0
+531,habanero sauce,1,0
+532,wild rice,2,0
+533,cornish hen,1,0
+534,broiler-fryer chickens,1,0
+535,lean pork,3,0
+536,condensed chicken broth,1,0
+537,pork tenderloin,7,0
+538,regular uncooked rice,1,0
+539,low-fat chicken broth,1,0
+540,baby peas,3,0
+541,bouillon cube,2,0
+542,italian plum tomatoes,3,0
+543,spanish smoked style chorizo sausage,1,0
+544,instant brown rice,4,0
+545,white lima beans,1,0
+546,red sweet paprika,1,0
+547,chili flakes,2,0
+548,seafood,4,0
+549,lime,8,0
+550,portion,1,0
+551,fresh spanish chorizo,2,0
+552,combination,1,0
+553,medium-grain valencia arborio rice,1,0
+554,egg yolks,13,0
+555,rings,9,0
+556,peanut oil,4,0
+557,italian seasoning,7,0
+558,english pea,1,0
+559,bass fillet,1,0
+560,green chilies,2,0
+561,shrimp paste,1,0
+562,authentico olive oil,1,0
+563,sweet spanish paprika,2,0
+564,cayenne powder,1,0
+565,liter,2,0
+566,roasted red pepper,1,0
+567,sesame oil,2,0
+568,gingerroot,3,0
+569,fideos,3,0
+570,chives,8,0
+571,fresh swordfish,1,0
+572,macaroni shells,1,0
+573,hot italian sausage,1,0
+574,freshly grated parmesan cheese,1,0
+575,chicken chorizo sausage,2,0
+576,cremini mushrooms,5,0
+577,kielbasa,7,0
+578,pumpkin,1,0
+579,ground nutmeg,1,0
+580,drizzle olive oil,1,0
+581,brine,1,0
+582,firm white fish,1,0
+583,spring onions,2,0
+584,yellow food coloring,2,0
+585,skirt steak,1,0
+586,almonds,15,0
+587,beef broth,4,0
+588,spinach leaves,1,0
+589,pureed ripe tomatoes,1,0
+590,sweet pimientos,1,0
+591,bomba,11,0
+592,green sweet pepper,2,0
+593,fluid ounces vegetable stock,1,0
+594,pasta,3,0
+595,quartered artichoke hearts,1,0
+596,risotto rice,5,0
+597,salami,5,0
+598,egg wash,1,0
+599,milk,10,0
+600,bread,3,0
+601,fresh corn,1,0
+602,dill,3,0
+603,lengths,5,0
+604,chicken thigh,12,0
+605,powdered sugar,5,0
+606,lingonberry preserves,1,0
+607,whipped cream,1,0
+608,kingklip,1,0
+609,frying chickens,1,0
+610,short grain spanish,2,0
+611,warm water,1,0
+612,yellow sweet pepper,1,0
+613,roma tomato,1,0
+614,enriched white rice,1,0
+615,fresh spring thyme,1,0
+616,crusty bread,5,0
+617,frozen seafood,2,0
+618,saffron dressing,1,0
+619,syrup,2,0
+620,rice wine vinegar,1,0
+621,nama shoyu,1,0
+622,chili pepper,2,0
+623,frozen artichoke heart,2,0
+624,cheddar cheese,2,0
+625,onion soup,2,0
+626,corn,8,0
+627,short-grain white rice,7,0
+628,stalks lemongrass,2,0
+629,fruit,3,0
+630,rum,4,0
+631,cumin powder,1,0
+632,fish fillet,2,0
+633,bodies,7,0
+634,quail,2,0
+635,red wine,6,0
+636,duck confit,1,0
+637,spinach,3,0
+638,white fish,10,0
+639,sweet smoked paprika,3,0
+640,brown onions,2,0
+641,ground cinnamon,7,0
+642,phyllo dough,1,0
+643,claws,1,0
+644,azafran,1,0
+645,tuna,3,0
+646,soy sausage,2,0
+647,yellow squash,2,0
+648,well-flavored chicken stock,1,0
+649,chicken bouillon granules,1,0
+650,bay seasoning,1,0
+651,fresh sugar snap pea,1,0
+652,fresh lemons,1,0
+653,broccoli florets,6,0
+654,manchego cheese,1,0
+655,valencian rice,1,0
+656,pasta spirals,2,0
+657,rosemary sprigs,3,0
+658,king prawns,6,0
+659,olive oil +,1,0
+660,kalamata olives,1,0
+661,flat-leaf parsley,13,0
+662,dried chili flakes,1,0
+663,cold cooked,1,0
+664,cured chorizo sausages,1,0
+665,long red chili pepper,1,0
+666,lemon peel,1,0
+667,semi-sweet sherry,1,0
+668,handful fresh parsley,2,0
+669,pork steak,1,0
+670,turkey sausages,6,0
+671,salami slices,1,0
+672,cod fillet,1,0
+673,medium grain white rice,1,0
+674,threads saffron,3,0
+675,chicken fillet,2,0
+676,mixed seafood,1,0
+677,capsule ground saffron,1,0
+678,vermicelli,2,0
+679,links chorizo,2,0
+680,rotisserie chicken,2,0
+681,brown basmati rice,1,0
+682,sofrito,4,0
+683,crumbled saffron threads,9,0
+684,chop clams,1,0
+685,chili,2,0
+686,lamb susage,1,0
+687,safron,2,0
+688,cod,6,0
+689,canned chickpeas,1,0
+690,\u00bc,12,0
+691,medium-grain spanish,1,0
+692,spanish piment\u00f3n,2,0
+693,simmering chicken,1,0
+694,intact,1,0
+695,lemon juice $,1,0
+696,olive oil $,1,0
+697,meat,4,0
+698,liquid,1,0
+699,short,6,0
+700,\u00be,2,0
+701,lump crab meat,1,0
+702,handful of italian parsley,1,0
+703,jalepeno,2,0
+704,balsamic vinegar,6,0
+705,chinese black vinegar,2,0
+706,white beans,5,0
+707,serving pieces,1,0
+708,minutes,1,0
+709,low-sodium,6,0
+710,t,5,0
+711,veggie broth +,1,0
+712,handfuls of baby spinach,1,0
+713,cheese,4,0
+714,piment\u00f3n,1,0
+715,rice - arborio,1,0
+716,fillet,4,0
+717,clove of garlic,2,0
+718,jalapenos,3,0
+719,cholula,1,0
+720,chardonnay,1,0
+721,i,3,0
+722,sour cream,2,0
+723,black,2,0
+724,black beans,4,0
+725,jumbo scampi,1,0
+726,sherry vinegar,3,0
+727,snapper,1,0
+728,tubes,2,0
+729,lemon aspen,1,0
+730,red desert,1,0
+731,outback salt,1,0
+732,links andouille sausage,1,0
+733,will,1,0
+734,squid body only,1,0
+735,cherrystone clams,2,0
+736,bomba rice,14,0
+737,cherrystone,1,0
+738,saffron powder,3,0
+739,yellow spanish rice,1,0
+740,octopus,5,0
+741,tspn chili flakes,1,0
+742,ground mace,1,0
+743,phyllo,4,0
+744,# venison backstrap,1,0
+745,duck bone out,1,0
+746,rabbit tender,1,0
+747,lemon rind,1,0
+748,warm stock,1,0
+749,chuncks,1,0
+750,homemade soffrito,1,0
+751,sazon completa seasoning,1,0
+752,handful fresh cilantro,1,0
+753,hot spanish paprika,2,0
+754,grain spanish,1,0
+755,short-grain spanish rice,4,0
+756,short-grain paella rice,2,0
+757,pearl,1,0
+758,total,2,0
+759,diameter,1,0
+760,parsley sprigs,2,0
+761,special,1,0
+762,cooking brown rice,1,0
+763,fresh squid,3,0
+764,corn - kernels,1,0
+765,taco,1,0
+766,rice - short grain spanish,1,0
+767,sausage - chorizo,1,0
+768,adjust,1,0
+769,aromatics,1,0
+770,flavorful broth,1,0
+771,picada,2,0
+772,handful chopped culantro,1,0
+773,ground tumeric,1,0
+774,salmon,7,0
+775,arborio,10,0
+776,stalks,3,0
+777,pollen spice blend,1,0
+778,generous,14,0
+779,rub for,1,0
+780,short grained white rice,1,0
+781,italian flat green beans,1,0
+782,oloroso sherry,1,0
+783,carrot chips,1,0
+784,herbs,2,0
+785,no-salt,3,0
+786,open fire,1,0
+787,spanish saffron threads,1,0
+788,jalepeno peppers,1,0
+789,onion powder,4,0
+790,italian turkey sausage,1,0
+791,beefsteak tomato,2,0
+792,+,3,0
+793,ramen noodles,1,0
+794,handful of frozen peas,1,0
+795,person,1,0
+796,people,1,0
+797,winter,2,0
+798,head of cauliflower,1,0
+799,pequillo,1,0
+800,low-salt,2,0
+801,mix,2,0
+802,cauliflower florets,3,0
+803,veggie stock,1,0
+804,oyster mushrooms,1,0
+805,valencia,9,0
+806,seitan sausage,1,0
+807,of fresh,1,0
+808,long grain,2,0
+809,thin pasta,1,0
+810,batch,1,0
+811,rounds,1,0
+812,lowsodium,1,0
+813,leaf,1,0
+814,tbl,1,0
+815,spice rub for,1,0
+816,salt pepper,2,0
+817,necessary,2,0
+818,fennel bulbs,8,0
+819,pastis,1,0
+820,fresh parsely,1,0
+821,vodka,1,0
+822,light cream,1,0
+823,black fetuccini,1,0
+824,salmon fetuccini,1,0
+825,kosher,3,0
+826,fresh basil,3,0
+827,saffron vinaigrette,1,0
+828,spanish sherry vinegar,1,0
+829,cured serrano,1,0
+830,spray,2,0
+831,baking sheets,1,0
+832,stalks green garlic,1,0
+833,slender,1,0
+834,spanish bomba,1,0
+835,kept,1,0
+836,andeluie sausages,1,0
+837,chicken stock/broth,1,0
+838,baby octopus,1,0
+839,black mussels,10,0
+840,pork longaniza,1,0
+841,fideo noodles,1,0
+842,sweet spanish,3,0
+843,grill,1,0
+844,baby artichokes,2,0
+845,frozen small peas,1,0
+846,mezcal,1,0
+847,fresh mushrooms,1,0
+848,chilli powder,1,0
+849,fresh coriander,3,0
+850,yoghurt,1,0
+851,garam masala,2,0
+852,heriloom,1,0
+853,handful italian parsley,1,0
+854,carnaroli rice,6,0
+855,handful slivered almonds,1,0
+856,blanched almonds,2,0
+857,sweet piment\u00f3n,2,0
+858,short grain brown rice,1,0
+859,red chile flakes,1,0
+860,shitake,1,0
+861,your favorite,1,0
+862,tomatos,1,0
+863,tail meat,2,0
+864,freshly squeezed lemon juice,4,0
+865,lemon zest,10,0
+866,freshly ground white,1,0
+867,paella with saffron rice,1,0
+868,grain white rice,2,0
+869,chicken seasoning mix,1,0
+870,smoky paprika,1,0
+871,short grain spanish rice,2,0
+872,langoustines,7,0
+873,red piquillo peppers,1,0
+874,head of garlic,1,0
+875,currants,3,0
+876,aleppo pepper,2,0
+877,white firm fish,1,0
+878,sweet red bell peppers,14,0
+879,tentacles,1,0
+880,extra colossal prawns,1,0
+881,while edible,1,0
+882,thin noodles,1,0
+883,bottoms,3,0
+884,again,1,0
+885,batter,1,0
+886,cream,1,0
+887,filling,1,0
+888,drizzle of olive oil,1,0
+889,goat cheese,1,0
+890,succulent cooked roast,1,0
+891,duck skin,1,0
+892,red cippolini onions,1,0
+893,red heirloom tomatoes,1,0
+894,cherry jam,2,0
+895,ground sumac,2,0
+896,cherry fruit,1,0
+897,cranberry beans,1,0
+898,cherry ale,1,0
+899,new mexico,1,0
+900,links,2,0
+901,ground thyme,1,0
+902,ground cayenne,1,0
+903,sumac,2,0
+904,sweet potato phyllo torte,1,0
+905,sweet potatoes,1,0
+906,potatoes,2,0
+907,generous grindings,1,0
+908,handful handful,1,0
+909,bowl of olive oil,1,0
+910,breadcrumbs,1,0
+911,nut cream,1,0
+912,fennel,2,0
+913,bream,1,0
+914,red poblanos,1,0
+915,veggie,1,0
+916,marsala wine,1,0
+917,handfuls cilantro,1,0
+918,caramelized walnuts,1,0
+919,yellow food colorant,1,0
+920,mixed herbs,2,0
+921,piment d\u2019espelette,1,0
+922,herbs - parsley,1,0
+923,grape leaves,1,0
+924,fresh portuguese,1,0
+925,cured spanish,1,0
+926,robust chicken,1,0
+927,fish sauce,3,0
+928,sivaris bomba paella rice,1,0
+929,handful parsley,4,0
+930,bhutan red,1,0
+931,hearts of palm,1,0
+932,threads of safron,1,0
+933,store-bought,1,0
+934,store-bought fish,1,0
+935,fresh curly parsley,1,0
+936,cuttlefish,2,0
+937,squid bodies,2,0
+938,store-bought sofrito,1,0
+939,caramelized onions,1,0
+940,store-bought aioli,1,0
+941,fava beans,3,0
+942,helix snails,1,0
+943,blossoms,1,0
+944,mixed green,1,0
+945,walnut halves,1,0
+946,picholine olives,1,0
+947,oil-cured black olives,1,0
+948,handful mixed seasonings,1,0
+949,spanish style bomba rice,1,0
+950,chive spoon,1,0
+951,lime juice,5,0
+952,fresh mint,2,0
+953,grape,1,0
+954,balsmatic rice,1,0
+955,fennel head,1,0
+956,brussel sprouts,1,0
+957,butternut squash,2,0
+958,parsnip,2,0
+959,chick peas,3,0
+960,thin,1,0
+961,white currants,1,0
+962,hot red pepper,2,0
+963,wild prawns,1,0
+964,fresh chorizo,4,0
+965,beefsteak tomatoes,1,0
+966,cilantro stems,1,0
+967,oil cured black olives,1,0
+968,rough chopped celery,1,0
+969,rough chopped carrot,1,0
+970,orange zest,1,0
+971,baby spinach,5,0
+972,natural yoghurt,1,0
+973,saffron threads-,1,0
+974,red bell,1,0
+975,green bell,1,0
+976,spanish short grain rice,3,0
+977,accompaniment,3,0
+978,glass,1,0
+979,cuts,1,0
+980,evoo,6,0
+981,chili pequin,1,0
+982,ahumado,1,0
+983,pork chorizo,1,0
+984,wild mushrooms,4,0
+985,walnuts,2,0
+986,anchovies,3,0
+987,spring peas,1,0
+988,garlic puree,1,0
+989,cooking brandy,1,0
+990,only,3,0
+991,celery stalk,3,0
+992,white spanish onion,1,0
+993,canola-olive oil,1,0
+994,\u00f1ora pepper,1,0
+995,green chiles,1,0
+996,packets saffron,1,0
+997,coffee,1,0
+998,saussage,1,0
+999,red tomatoes,1,0
+1000,anise liquor,1,0
+1001,spanish bomba rice,1,0
+1002,peaches,1,0
+1003,piment,7,0
+1004,light olive oil,1,0
+1005,fleur de sel,1,0
+1006,handful of lemon verbena leaves,1,0
+1007,arcun,1,0
+1008,matsutake mushrooms,1,0
+1009,sake,2,0
+1010,bamboo rice,1,0
+1011,chard,4,0
+1012,frozen corn,4,0
+1013,swiss chard,3,0
+1014,swiss chard stalks,1,0
+1015,yogurt,1,0
+1016,white asparagus,4,0
+1017,links of merguez sausage,1,0
+1018,caraway,1,0
+1019,harissa,1,0
+1020,fresh tomatoes,3,0
+1021,cornish game hen,1,0
+1022,thin slices of applewood smoked bacon,1,0
+1023,boudin noir,1,0
+1024,pepitas,1,0
+1025,chile powder,1,0
+1026,granny smith apples,1,0
+1027,handful of cilantro,1,0
+1028,frozen broad beans,1,0
+1029,preserved lemons,1,0
+1030,sticks,1,0
+1031,winesap apple,1,0
+1032,gruy\u00e8re,1,0
+1033,soffritto,1,0
+1034,ancho pepper,1,0
+1035,jasmin rice,1,0
+1036,white,1,0
+1037,paella broth,1,0
+1038,ground tomatos,1,0
+1039,paella de peix,1,0
+1040,clam stock,1,0
+1041,burbot,1,0
+1042,handful green olives,1,0
+1043,tomato pur\u00e9e,1,0
+1044,bouquet guarni_,1,0
+1045,saffron flowers,1,0
+1046,handful freshly ground mondego cheese,1,0
+1047,fresh heirloom tomatoes,1,0
+1048,other seasonings,1,0
+1049,assemble the paella,1,0
+1050,alioli,1,0
+1051,oil olive,1,0
+1052,noodles,2,0
+1053,boil-,1,0
+1054,edamame,2,0
+1055,kielbasa sausage,3,0
+1056,kernel corn,1,0
+1057,frozen petite sweet green peas,1,0
+1058,linguisa,1,0
+1059,ground dried turmeric,2,0
+1060,white-fleshed fish,1,0
+1061,slivered green onions,1,0
+1062,\u2019s,1,0
+1063,feathery greens,1,0
+1064,spanish fino sherry,1,0
+1065,frozen sweet peas,3,0
+1066,center,2,0
+1067,grouper,3,0
+1068,skinless squid,1,0
+1069,capellini pasta,1,0
+1070,steaming,1,0
+1071,pouches,1,0
+1072,frozen petite green peas,3,0
+1073,extravirgin olive oil,2,0
+1074,flat-leaf,15,0
+1075,new,1,0
+1076,white arborio,1,0
+1077,tricolor bell pepper,1,0
+1078,hot water,1,0
+1079,soy chorizo,2,0
+1080,spaghetti,1,0
+1081,sweet,2,0
+1082,spanish short,2,0
+1083,chablis,2,0
+1084,butifarra sausages,1,0
+1085,morcilla sausages,1,0
+1086,sweet pimenton,7,0
+1087,chipotle chile,2,0
+1088,fresh corn kernels,1,0
+1089,handful of woody herb sprigs,1,0
+1090,mushroom stock,2,0
+1091,kale,2,0
+1092,calabrian chile oil,1,0
+1093,black peppercorns,2,0
+1094,baking powder,1,0
+1095,golden raisins,2,0
+1096,pearl sugar,1,0
+1097,frozen sweet green peas,1,0
+1098,frozen small green peas,1,0
+1099,lump crabmeat,2,0
+1100,crawfish meat,1,0
+1101,cracked black pepper,1,0
+1102,coloring,1,0
+1103,red-pepper,2,0
+1104,fresh-ground black pepper,2,0
+1105,regular,5,0
+1106,sweet smoked spanish paprika,3,0
+1107,spanish valenciano,1,0
+1108,quarters,1,0
+1109,chilies,4,0
+1110,boiling hot,2,0
+1111,sweet italian green peppers,1,0
+1112,turkey breast,1,0
+1113,fresh broccoli florets,1,0
+1114,ready-to-,1,0
+1115,mexicorn,1,0
+1116,calendula petals,1,0
+1117,bread crumbs,3,0
+1118,vanilla,1,0
+1119,confectioners sugar,2,0
+1120,rice world,1,0
+1121,spice paella,1,0
+1122,margarine,4,0
+1123,red chilies,1,0
+1124,okra frozen,1,0
+1125,chipotles,1,0
+1126,knorr tomato,2,0
+1127,octopus cooked,1,0
+1128,knorr shrimp flavor,1,0
+1129,monkfish,6,0
+1130,casing chorizo,1,0
+1131,lemon zested,1,0
+1132,baby,2,0
+1133,shrimp cocktail,1,0
+1134,broth good,1,0
+1135,bone,1,0
+1136,fresh chorizo links,1,0
+1137,parsley stems,1,0
+1138,saffron +,1,0
+1139,lemon optional,1,0
+1140,broth tetra,1,0
+1141,handful butter,1,0
+1142,handful garbanzo chick beans,1,0
+1143,country,1,0
+1144,knorr pasta,1,0
+1145,petite peas,3,0
+1146,rice mix saffron,1,0
+1147,world style pasta sauce,1,0
+1148,seasoning,2,0
+1149,lard,1,0
+1150,sweet pea green,1,0
+1151,chilli green,1,0
+1152,cracked pepper,1,0
+1153,seafood marinara,1,0
+1154,choice,5,0
+1155,cabbage,2,0
+1156,ham chicken,1,0
+1157,natural yogurt,1,0
+1158,apple vinegar,1,0
+1159,pear,1,0
+1160,frozen green beans,2,0
+1161,chorizo links,2,0
+1162,fiesta sides,2,0
+1163,sausage spanish,2,0
+1164,fish firm,1,0
+1165,closed,1,0
+1166,sazon seasoning with annatto,1,0
+1167,sobrecitos,1,0
+1168,spice,1,0
+1169,sazon seasoning,1,0
+1170,seasoning cajun,1,0
+1171,serrano chili pepper,1,0
+1172,stock you can,1,0
+1173,sweetcorn,1,0
+1174,courgette,2,0
+1175,turmeric i,1,0
+1176,rice paella,1,0
+1177,haricot beans,1,0
+1178,mixed spice,1,0
+1179,sausage andouille best,1,0
+1180,rice paella rice,1,0
+1181,saffron spanish,1,0
+1182,fresh fava beans,2,0
+1183,saffron crushed,1,0
+1184,jambalaya mix,1,0
+1185,fish broth,1,0
+1186,chicken chunked,1,0
+1187,rice bomba,1,0
+1188,peas frozen baby,1,0
+1189,frozen peas thawed,1,0
+1190,regular long-grain,1,0
+1191,sauce,2,0
+1192,frozen,1,0
+1193,chile pepper,2,0
+1194,white meat,1,0
+1195,salt substitute herbal,1,0
+1196,saffron ground,1,0
+1197,shrimp broth,2,0
+1198,ring of sausage,1,0
+1199,italian dressing,10,0
+1200,instant white rice,2,0
+1201,turkey cutlets,1,0
+1202,chilli,4,0
+1203,california virgin olive oil,1,0
+1204,purple chili pepper,1,0
+1205,texmati rice,1,0
+1206,hot-pepper sauce,1,0
+1207,live maine lobster,1,0
+1208,extra-virgin extra virgin olive oil,2,0
+1209,jamon saran,1,0
+1210,rice cooked,1,0
+1211,bulb fennel,1,0
+1212,japanese eggplant,1,0
+1213,haricots verts,1,0
+1214,piquillo,1,0
+1215,yellow food color,1,0
+1216,boiling fish,1,0
+1217,pepper sauce,3,0
+1218,weight sweet,1,0
+1219,golden apples,1,0
+1220,prunes,1,0
+1221,pastry,2,0
+1222,fries,1,0
+1223,ground chicken,3,0
+1224,grill seasoning,2,0
+1225,pimiento peppers,2,0
+1226,rolls,3,0
+1227,romaine lettuce,2,0
+1228,cream cheese,1,0
+1229,crackers crackers,1,0
+1230,cakebread cellars sauvignon,1,0
+1231,spanish smoked sweet paprika,1,0
+1232,shell-on,1,0
+1233,medium-grain spanish rice,3,0
+1234,ruby port,1,0
+1235,short round rice,1,0
+1236,cinnamon sticks,2,0
+1237,quick-cooking rice,1,0
+1238,pink beans,1,0
+1239,annatto seeds,1,0
+1240,cured chorizo,2,0
+1241,head-on,2,0
+1242,porcini,1,0
+1243,quick-cooking brown rice,2,0
+1244,fresh live mussels,1,0
+1245,handful garden peas,1,0
+1246,glass red wine,1,0
+1247,chicken meat,2,0
+1248,chillies,1,0
+1249,hot pepper,3,0
+1250,dried leaf oregano,1,0
+1251,pilaf mix,1,0
+1252,frozen seafood mix,1,0
+1253,red paprika,1,0
+1254,pack basil,1,0
+1255,bouillon broth powder,1,0
+1256,refogado,1,0
+1257,firm-fleshed,1,0
+1258,fresh spinach,1,0
+1259,soda water,1,0
+1260,white bread,2,0
+1261,freshly grounded black pepper,1,0
+1262,crown roast of pork,1,0
+1263,uncle ben's,1,0
+1264,rich fish,1,0
+1265,freshly ground coarse black pepper,2,0
+1266,short-grained rice,1,0
+1267,shellfish stock,1,0
+1268,frzn peas,4,0
+1269,spanish hot paprika,1,0
+1270,lean pork loin,1,0
+1271,california halibut filet,1,0
+1272,seedless chili flakes,1,0
+1273,grapeseed oil,5,0
+1274,white-wine vinegar,1,0
+1275,purple,1,0
+1276,bunches arugula,1,0
+1277,cucumber,2,0
+1278,generous good quality saffron thread,1,0
+1279,cajun,2,0
+1280,handful of wood chips,1,0
+1281,sazon,2,0
+1282,chicken broth +,1,0
+1283,chicken livers,2,0
+1284,chicken gizzards,1,0
+1285,bell,1,0
+1286,knuckles,1,0
+1287,liters boiling hot chicken,1,0
+1288,colossal shrimp,1,0
+1289,short grain paella rice,2,0
+1290,worcestershire sauce,3,0
+1291,creole seasoning,4,0
+1292,okra,2,0
+1293,horseradish,2,0
+1294,file gumbo seasoning,1,0
+1295,orange roughy,1,0
+1296,liters boiling chicken stock,1,0
+1297,'s seasoning,1,0
+1298,baby scallops,2,0
+1299,checks,1,0
+1300,piri sauce,1,0
+1301,hour before,1,0
+1302,cocoa,1,0
+1303,whole black peppercorns,2,0
+1304,salt pork,3,0
+1305,coriander ground,2,0
+1306,rice washed,1,0
+1307,water boiling,1,0
+1308,directions,1,0
+1309,liters water,2,0
+1310,curry,4,0
+1311,green chili pepper,1,0
+1312,bermuda onion,1,0
+1313,deli smoked ham,1,0
+1314,fresh lima beans,2,0
+1315,fresh chili peppers,1,0
+1316,vegetable or chicken,1,0
+1317,shell mussels,1,0
+1318,linguica,1,0
+1319,shrimp/chicken,1,0
+1320,turmeric ground,1,0
+1321,bone broth,1,0
+1322,sirloin steak,1,0
+1323,beef flavor rice,1,0
+1324,long-grain minute rice,1,0
+1325,red currant,1,0
+1326,mixed seasonings,1,0
+1327,cubes,4,0
+1328,manzanilla,1,0
+1329,freshly cracked black pepper,2,0
+1330,serrano chiles,2,0
+1331,yellow cherry tomatoes,1,0
+1332,red radishes,1,0
+1333,l,3,0
+1334,bijol powder,1,0
+1335,parsley leaves,1,0
+1336,steamed mussels,1,0
+1337,seafood guy will always,1,0
+1338,whole cloves,1,0
+1339,corn syrup,1,0
+1340,steen's,1,0
+1341,white vinegar,2,0
+1342,julienned red onions,1,0
+1343,hard cider,1,0
+1344,lager,1,0
+1345,juniper berries,1,0
+1346,sauerkraut,1,0
+1347,light brown sugar,1,0
+1348,rye,1,0
+1349,beef fillet,1,0
+1350,bass,2,0
+1351,curly parsley,1,0
+1352,serranos,1,0
+1353,white sesame seeds,1,0
+1354,herbes,1,0
+1355,sauvignon,1,0
+1356,green spanish olives,2,0
+1357,green asparagus,1,0
+1358,shrimp king,1,0
+1359,aspen,1,0
+1360,*,1,0
+1361,short ribs,1,0
+1362,korean red bean paste,1,0
+1363,mirin,1,0
+1364,rice vinegar,3,0
+1365,sambal,2,0
+1366,guy,1,0
+1367,julienne carrot,1,0
+1368,roasting chickens,2,0
+1369,rack pork spareribs,1,0
+1370,strands,1,0
+1371,crumbled saffron,2,0
+1372,frozen organic peas,2,0
+1373,red wine vinegar,3,0
+1374,red hot pepper sauce optional,1,0
+1375,ham cooked,1,0
+1376,packageyellow saffron rice mix,1,0
+1377,shrimp still,1,0
+1378,medium grain brown rice,1,0
+1379,notes,2,0
+1380,chicken pcs,1,0
+1381,count,1,0
+1382,fresh red chile pepper,1,0
+1383,starchy,1,0
+1384,red beans,1,0
+1385,ditalini,1,0
+1386,crusty,1,0
+1387,pecorino,1,0
+1388,sweet yellow peppers,2,0
+1389,vidalia onions,3,0
+1390,lite coconut milk,1,0
+1391,vinegar dressing,1,0
+1392,red chili powder,1,0
+1393,black mustard seed,1,0
+1394,cold cooked rice,2,0
+1395,pumpkin seeds,1,0
+1396,norwegian cooked,1,0
+1397,giant prawns,1,0
+1398,sweet chorizo,1,0
+1399,fillet steak,1,0
+1400,level tsp mild chilli pwdr,1,0
+1401,red peppers oil,1,0
+1402,pack chorizo sausage,1,0
+1403,level tbsp tomato paste,1,0
+1404,beef,2,0
+1405,thread saffron,1,0
+1406,frozen baby lima beans,2,0
+1407,valencian short grain rice,1,0
+1408,arbol,1,0
+1409,spring garlics,1,0
+1410,fresh prawns,1,0
+1411,fresh herbs,2,0
+1412,white basmati rice,1,0
+1413,liqueur,1,0
+1414,spanish beer,1,0
+1415,cajun spice mix,1,0
+1416,crayfish tail meat,1,0
+1417,fresh italian,1,0
+1418,chili pwdr,2,0
+1419,onion pwdr,2,0
+1420,broad beans,1,0
+1421,shallow pan,1,0
+1422,granules,1,0
+1423,red and,2,0
+1424,artichokes tender,1,0
+1425,chili paste,1,0
+1426,morels,1,0
+1427,sticky rice,1,0
+1428,ginger root,2,0
+1429,finger chilies,1,0
+1430,soya sauce,1,0
+1431,chinese rice wine,1,0
+1432,deli,1,0
+1433,fresh fennel bulbs,1,0
+1434,chestnuts,1,0
+1435,chicken soup stock,1,0
+1436,sutter,2,0
+1437,freshly made bread crumbs,1,0
+1438,thin slices yellow onion,1,0
+1439,sourdough rolls,2,0
+1440,tomato slices,2,0
+1441,serrano ham,2,0
+1442,pollock,1,0
+1443,frozen octopus,1,0
+1444,bouquet garni,2,0
+1445,tortillas,1,0
+1446,mixed peppers,1,0
+1447,green leaves,1,0
+1448,leak,1,0
+1449,flour tortillas,2,0
+1450,spanish-flavor,1,0
+1451,fluid turkey sausage,1,0
+1452,grain brown rice,1,0
+1453,pilaf rice,1,0
+1454,extra chicken,1,0
+1455,handful fresh basil,1,0
+1456,mace,1,0
+1457,pinches saffron,1,0
+1458,pints,1,0
+1459,open,1,0
+1460,weight soyrizo,1,0
+1461,angel hair,1,0
+1462,catfish fillet,1,0
+1463,freshly ground white pepper,5,0
+1464,freshly chopped,1,0
+1465,lemon aioli,4,0
+1466,vermicelli noodles,1,0
+1467,woody stems,1,0
+1468,regular olive oil,1,0
+1469,frozen prawns,1,0
+1470,cold cooked pork,1,0
+1471,palacios,1,0
+1472,jamon serrano,1,0
+1473,sherry sweet,1,0
+1474,chicken base,1,0
+1475,onions spanish,1,0
+1476,sweet bell peppers,1,0
+1477,coriander chopped,1,0
+1478,salad dressing,1,0
+1479,tilapia fillets,2,0
+1480,fresh spinach leaves,1,0
+1481,manilla clams,1,0
+1482,pork belly,1,0
+1483,chicken cubes,1,0
+1484,frankfurters,2,0
+1485,rice white,1,0
+1486,pack of schwarts spanish smoked paprika chicken sauce pack,1,0
+1487,just under,1,0
+1488,like,1,0
+1489,veal cutlets,1,0
+1490,long grained rice,1,0
+1491,european cucumber,1,0
+1492,arugula,1,0
+1493,crunchy,1,0
+1494,fresh garrofo,1,0
+1495,tavella beans,1,0
+1496,purchased oil,1,0
+1497,angel hair pasta,1,0
+1498,mushroom broth,1,0
+1499,fresh asparagus,1,0
+1500,long-grain brown rice,1,0
+1501,low-fat,1,0
+1502,ancho chiles,2,0
+1503,bunches basil,1,0
+1504,romano beans,1,0
+1505,garlic mayonnaise,1,0
+1506,thin strips roasted red bell pepper,1,0
+1507,liquid smoke,1,0
+1508,firm,1,0
+1509,dried chili pepper,1,0
+1510,wasabi paste,1,0
+1511,sack,1,0
+1512,red chilli,1,0
+1513,italian short-grain rice,1,0
+1514,well,1,0
+1515,weipa,1,0
+1516,filet,1,0
+1517,chicken consomme,1,0
+1518,-mussels,1,0
+1519,turineric,1,0
+1520,recipe aioli,1,0
+1521,bay,1,0
+1522,spanish short-grain,1,0
+1523,fresh artichoke,1,0
+1524,choke,1,0
+1525,weight pepperoni,1,0
+1526,freshly ground salt,1,0
+1527,achiote oil,2,0
+1528,alcaparrado,1,0
+1529,'s,1,0
+1530,italian frying peppers,1,0
+1531,culantro,1,0
+1532,pigeons,1,0
+1533,freshly grnd black pepper,1,0
+1534,pork butt,1,0
+1535,head-on shrimp,1,0
+1536,ancho powder,1,0
+1537,lobsters claws,1,0
+1538,noir,1,0
+1539,chicken ground,1,0
+1540,flat-leaf italian parsley,1,0
+1541,edamame beans,1,0
+1542,bacon rashers,1,0
+1543,beef stock,1,0
+1544,canwater-pack artichoke hearts,1,0
+1545,grouper fillet,1,0
+1546,pepperoncini,1,0
+1547,canquartered artichoke,1,0
+1548,chop red onion,1,0
+1549,snow crab claws,1,0
+1550,italian canned tomatoes,1,0
+1551,fresh sage,1,0
+1552,paella spice blend,1,0
+1553,cognac,1,0
+1554,pack rice noodles,1,0
+1555,short-grain calaspara rice,1,0
+1556,red tomato,1,0
+1557,cooked crabmeat,1,0
+1558,allspice,1,0
+1559,light extra virgin olive oil,1,0
+1560,jalapeno -,1,0
+1561,chile pwdr,1,0
+1562,salsa layer,1,0
+1563,sherry wine vinegar,3,0
+1564,mustard,2,0
+1565,sazon goya with azafran,1,0
+1566,clove smoked garlic,1,0
+1567,sweet spanish type paprika,1,0
+1568,fresh herb vinaigrette,1,0
+1569,ground lean pork,1,0
+1570,cider vinegar,1,0
+1571,ruce,1,0
+1572,edemame beans,1,0
+1573,poupon,1,0
+1574,pork loin chops,1,0
+1575,pimiento strips,1,0
+1576,saffron stems,1,0
+1577,ouzo,1,0
+1578,cajun rice,1,0
+1579,fresh coarse ground black pepper,1,0
+1580,skin,2,0
+1581,italian-style tomatoes,1,0
+1582,littlenecks,1,0
+1583,cumin ground,1,0
+1584,black tea,1,0
+1585,red chili,1,0
+1586,cannellini,1,0
+1587,angel-hair pasta,1,0
+1588,pigeon peas,1,0
+1589,brussels,1,0
+1590,garlic oil,1,0
+1591,paprika powder,1,0
+1592,caraway seeds,1,0
+1593,pork knuckles,1,0
+1594,eating apples,1,0
+1595,baking potatoes,1,0
+1596,amber,1,0
+1597,lemon's worth,1,0
+1598,ancho chili,1,0
+1599,english-petit peas,1,0
+1600,seafood mix,1,0
+1601,rockfish,1,0
+1602,white chicken,1,0
+1603,chicken leg quarters,1,0
+1604,neck,1,0
+1605,rice short grain,1,0
+1606,sweet rice,1,0
+1607,long-grained rice,1,0
+1608,white wine...,1,0
+1609,saffron...,1,0
+1610,sherry wine,1,0
+1611,ground pork,1,0
+1612,almonds blanched,1,0
+1613,chocolate,1,0
+1614,chicken breast cutlets,1,0
+1615,generous handful,1,0
+1616,rolled oatmeal,1,0
+1617,fruit paella,1,0
+1618,dipping sauce,1,0
+1619,achiote seeds,1,0
+1620,spanish style chorizo links,1,0
+1621,red ripe tomatoes,1,0
+1622,laurel leaves,1,0
+1623,short-to-medium,1,0
+1624,frozen sweet,1,0
+1625,tabasco,1,0
+1626,olive oil spray,1,0
+1627,morel mushrooms,1,0
+1628,butterfish,1,0
+1629,chinese sausage,1,0
+1630,tumeric,1,0
+1631,chilean bass,1,0
+1632,bird chiles,1,0
+1633,pods,1,0
+1634,mixed seafood selection,1,0
+1635,three,1,0
+1636,stem saffron,1,0
+1637,turkish,1,0
+1638,thin breadsticks,1,0
+1639,shrimp shell stock,1,0
+1640,lebanese cucumber,1,0
+1641,wild rocket,1,0
+1642,ground,1,0
+1643,chunky salsa,1,0
+1644,dark red kidney beans,1,0
+1645,live,2,0
+1646,roaster chicken,1,0
+1647,ground ginger,1,0
+1648,orange-flower water,1,0
+1649,store-bought phyllo dough,1,0
+1650,italian seasoned breadcrumbs,1,0
+1651,vegetarian sausages,1,0
+1652,vegetable stock warm,1,0
+1653,shrimp prawns,1,0
+1654,clams live,1,0
+1655,garlic mashed,1,0
+1656,pimentos sweet,1,0
+1657,sausage italian,1,0
+1658,hot seasoning,1,0
+1659,whiting,1,0
+1660,pattern,1,0
+1661,scallions salt,1,0
+1662,recipe ajo,1,0
+1663,saffron sprigs,1,0
+1664,extra virgin,1,0
+1665,garlic smashed,1,0
+1666,additional stock,1,0
+1667,sage,1,0
+1668,oilive oil,1,0
+1669,cracked black,1,0
+1670,ham slices,1,0
+1671,berries,1,0
+1672,medium-grain rice,1,0
+1673,button mushrooms,1,0
+1674,chipotle powder,1,0
+1675,cactus salsa,1,0
+1676,poblano,1,0
+1677,tequila,1,0
+1678,blanco tequila,1,0
+1679,basmati brown rice,1,0
+1680,boneless strip steak,1,0
+1681,paella rice salad,1,0
+1682,red potatoes,1,0
+1683,peeled carrot,1,0
+1684,quartered artichoke,1,0
+1685,grilled chorizo,1,0
+1686,mackerel,1,0
+1687,paella base,1,0
+1688,pumpkinseeds,1,0
+1689,hake fillets,1,0
+1690,mediterranean vegetables,1,0
+1691,spaghetti sauce mix,1,0
+1692,warm pepper,1,0
+1693,merguez,1,0
+1694,garlic sausage,1,0
+1695,spanish short-grain rice,1,0
+1696,sole fillets,1,0
